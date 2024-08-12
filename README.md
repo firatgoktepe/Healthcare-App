@@ -14,12 +14,13 @@ A healthcare patient management application that allows patients to easily regis
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Appwrite
-- Typescript
-- TailwindCSS
-- ShadCN
-- Twilio
+- [Next.js 14](https://nextjs.org/) (React Framework)
+- [Appwrite](https://appwrite.io/) (for database, an ORM tool, file storage, Messaging and authentication)
+- [TypeScript 5](https://www.typescriptlang.org/) (Type Checking)
+- [Tailwind CSS 3.4.1](https://tailwindcss.com/) (Styling)
+- [ShadCN](https://ui.shadcn.com/) (UI Components)
+- [Twilio](https://www.twilio.com/en-us) (SMS Notifications)
+- [ESLint 8](https://eslint.org/) (Code Linting)
 
 ## <a name="features">🔋 Features</a>
 
